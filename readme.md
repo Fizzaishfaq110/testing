@@ -1,4 +1,4 @@
-#Steps for solving github merge conflict#
+###Steps for solving github merge conflict###
 
 1. **Identify the Conflict**: Use `git status` to locate files with conflicts.
 2. **Open the File**: Manually inspect the conflicted file to understand differences.
